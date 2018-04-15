@@ -1,0 +1,26 @@
+.color-box {
+  display: block;
+  height: 160px;
+  text-align: center;
+  padding: 20px 0;
+  border-radius: 5px;
+  cursor: none;
+  z-index: 999;
+  box-shadow: rgba(0,0,0,0.3) 5px 5px 5px;
+}
+.color-box:hover {
+  text-decoration: none;
+  color:rgb(53, 118, 148);
+  transform: scale(1.08);
+}
+.color-box:focus {
+  text-decoration: none;
+}
+.color-box p{
+  font-size: 25px;
+  line-height: 50px;
+  padding-top: 0;
+}
+.color-box .desc i{
+  margin-right:20px;
+}

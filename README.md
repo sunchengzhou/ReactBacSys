@@ -10,6 +10,6 @@ $ npm run server   //实时刷新
 
 ```
 
-[bootstrap皮肤]:https://webthemez.com/demo/insight-free-bootstrap-html5-admin-template/ui-elements.html
+[皮肤地址]：https://webthemez.com/demo/insight-free-bootstrap-html5-admin-template/ui-elements.html
 
 [接口文档]：https://gitee.com/imooccode/happymmallwiki/wikis/Home

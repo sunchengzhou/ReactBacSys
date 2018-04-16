@@ -8,7 +8,6 @@ const _user = new User();
 class NavTop extends React.Component{
   constructor(props) {
       super(props);
-      console.log(_mm.getStorage('userInfo'))
       this.state = {
           username: _mm.getStorage('userInfo').username
       };
